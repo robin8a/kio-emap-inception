@@ -52,3 +52,6 @@ https://www.sitepoint.com/how-to-create-a-mall-map-with-real-time-data-using-wrl
 https://www.wrld3d.com/wrld.js/latest/docs/examples/
 https://www.mazemap.com/indoor-maps
 https://www.mapwize.io/solutions
+
+## wrld3d
+- [Pricing](https://www.wrld3d.com/pricing/developers)
