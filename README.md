@@ -55,3 +55,36 @@ https://www.mapwize.io/solutions
 
 ## wrld3d
 - [Pricing](https://www.wrld3d.com/pricing/developers)
+
+# Create own map with reactj
+[Games](https://reactjsexample.com/tag/games/)
+
+
+# Indoor navegation
+- https://www.google.com/maps/about/partners/indoormaps/
+- https://medium.com/@srisys/differences-between-google-maps-and-indoor-navigation-app-ed220224f80b
+- https://www.researchgate.net/publication/250191197_Locata_A_New_Positioning_Technology_for_High_Precision_Indoor_and_Outdoor_Positioning
+- https://support.google.com/maps/answer/2803784?hl=en&visit_id=637427250860506202-3576713852&rd=1
+
+
+
+# 
+
+- https://medium.com/@wrld3d/creating-indoor-maps-6-key-steps-for-beginners-c8f0b872c194
+
+# Creating Indoor Map with React Js
+
+- https://blog.mazemap.com/introducing-mazemap-indoor-map-javascript-api-v1-0/
+- https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/
+
+## Leaflet Indoor
+- https://github.com/cbaines/leaflet-indoor
+- https://www.qgis.org/en/site/
+- https://docs.eegeo.com/eegeo.js/v0.1.780/docs/examples/finding-a-route-in-an-indoor-map/
+- https://leafletjs.com/plugins.html
+- https://github.com/Turistforeningen/leaflet-routing
+http://osiris-indoor.github.io/tutorial/2016/04/11/Using-Leaflet-to-draw-your-building-in-a-Smart-City-project.html
+- https://stackoverflow.com/questions/48559682/how-to-add-paths-to-indoor-mapping-in-leaflet
+### Example
+- https://github.com/cbaines/leaflet-indoor
+- http://cbaines.github.io/leaflet-indoor/examples/
