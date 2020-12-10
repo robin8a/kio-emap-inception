@@ -88,3 +88,27 @@ http://osiris-indoor.github.io/tutorial/2016/04/11/Using-Leaflet-to-draw-your-bu
 ### Example
 - https://github.com/cbaines/leaflet-indoor
 - http://cbaines.github.io/leaflet-indoor/examples/
+
+### Youtube
+- [React-Leaflet demo](https://www.youtube.com/watch?v=290VgjkLong)
+- [Leaflet - Build React.js Map App](https://www.youtube.com/watch?v=PMtXhxW6t2k)
+
+
+# Graph Nodes
+- https://gojs.net/latest/index.html?gclid=CjwKCAiAiML-BRAAEiwAuWVggpaSfzprvgCwvTbLakYKPSfqBANq1vKSiJoWF-czrUN99nQmGu-_gBoCklUQAvD_BwE
+- https://stackoverflow.com/questions/39209460/which-library-to-use-to-draw-simple-graphs-nodes-links-in-react
+- https://github.com/uber/react-digraph
+- https://towardsdatascience.com/creating-a-bubbles-map-using-react-leaflet-e75124ca1cd2
+- https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258
+- [D3.js Tutorial - How to use D3.js with ReactJS](https://www.youtube.com/watch?v=s5F9xa3PFoM)
+- https://d3js.org/
+
+# Drawing
+- https://embiem.github.io/react-canvas-draw/
+- https://codesandbox.io/s/6lv410914w
+- https://medium.com/@abhtri1990/drawing-on-maps-in-react-using-leaflet-f8921c792caf
+
+
+# Gatsby
+- https://www.freecodecamp.org/news/easily-spin-up-a-mapping-app-in-react-with-leaflet/
+- https://github.com/colbyfayock/gatsby-starter-leaflet
