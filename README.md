@@ -112,3 +112,19 @@ http://osiris-indoor.github.io/tutorial/2016/04/11/Using-Leaflet-to-draw-your-bu
 # Gatsby
 - https://www.freecodecamp.org/news/easily-spin-up-a-mapping-app-in-react-with-leaflet/
 - https://github.com/colbyfayock/gatsby-starter-leaflet
+
+
+# Mapwize
+- https://www.mapwize.io/developer-tools
+- https://docs.mapwize.io/developers/js/sdk/latest/
+- https://www.npmjs.com/package/mapwize
+
+# Apple
+- https://developer.apple.com/videos/play/wwdc2019/241/
+
+# Google Indoor Map
+- https://maps.google.com/help/maps/indoormaps/faqs.html
+- https://www.youtube.com/watch?v=XNvFjX9t-Zk
+- https://localsearchforum.com/threads/creation-of-google-indoor-maps.52259/
+- (Google I/O 2013 - The Next Frontier: Indoor Maps)[https://www.youtube.com/watch?v=oLOUXNEcAJk]
+- https://sociable.co/technology/a-quick-guide-to-creating-a-google-maps-floor-plan/
