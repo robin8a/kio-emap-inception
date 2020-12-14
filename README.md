@@ -128,3 +128,16 @@ http://osiris-indoor.github.io/tutorial/2016/04/11/Using-Leaflet-to-draw-your-bu
 - https://localsearchforum.com/threads/creation-of-google-indoor-maps.52259/
 - (Google I/O 2013 - The Next Frontier: Indoor Maps)[https://www.youtube.com/watch?v=oLOUXNEcAJk]
 - https://sociable.co/technology/a-quick-guide-to-creating-a-google-maps-floor-plan/
+
+
+# Project working
+- https://medium.com/javascript-in-plain-english/leaflet-map-with-react-part-i-4ef4ecbdcc1b
+
+# GeoJson
+- https://geoman.io/
+- https://codepen.io/mochaNate/pen/bWNveg
+- https://developers.google.com/maps/documentation/javascript/examples/layer-data-dragndrop#maps_layer_data_dragndrop-html
+- https://developers.google.com/maps/documentation/javascript/datalayer
+
+# Leaflet routing
+- https://github.com/Turistforeningen/leaflet-routing
