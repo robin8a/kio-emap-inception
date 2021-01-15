@@ -107,3 +107,6 @@ yarn add react-router-dom
 https://github.com/dowjones/react-tutorial/blob/master/AWS.Cloud9.Instructions.md
 
 
+# Leaflet Zoom 
+- [Zoom further in than level 19 with leaflet javascript API?](https://gis.stackexchange.com/questions/78843/zoom-further-in-than-level-19-with-leaflet-javascript-api)
+- https://leafletjs.com/reference-1.2.0.html#gridlayer-maxnativezoom
