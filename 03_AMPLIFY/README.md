@@ -1,5 +1,6 @@
 # Amplify
-
+- [docs.amplify.aws](https://docs.amplify.aws/cli/hosting#using-aws-amplify-console)
+- 
 # amplify configure
 
 ```sh
@@ -26,10 +27,12 @@ This would update/create the AWS Profile in your local machine
 ```
 
 # amplify init
+
 ```sh
 amplify init
 ```
 
+## result
 ```sh
 Note: It is recommended to run this command from the root of your app directory
 ? Enter a name for the project kio-sl-emap
@@ -48,6 +51,7 @@ For more information on AWS Profiles, see:
 https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html
 
 ```
+
 ## result
 ```sh
 ? Do you want to use an AWS profile? Yes
