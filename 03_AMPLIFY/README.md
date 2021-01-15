@@ -5,7 +5,7 @@
 ```sh
 amplify configure
 ```
-
+## result
 ```sh
 https://console.aws.amazon.com/
 Press Enter to continue
@@ -25,6 +25,7 @@ This would update/create the AWS Profile in your local machine
 ? Profile Name:  kio-sl-emap
 ```
 
+# amplify init
 ```sh
 amplify init
 ```
@@ -47,7 +48,7 @@ For more information on AWS Profiles, see:
 https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html
 
 ```
-
+## result
 ```sh
 ? Do you want to use an AWS profile? Yes
 ? Please choose the profile you want to use kio-sl-emap
@@ -87,3 +88,28 @@ Some next steps:
 Pro tip:
 Try "amplify add api" to create a backend API and then "amplify publish" to deploy everything
 ```
+
+# amplify hosting
+
+```sh
+amplify add hosting
+```
+## AWS Config
+- ![Role](./_images/01_role.png)
+- ![CICD](./_images/02_publish_CICD.png)
+
+## result
+```sh
+? Select the plugin module to execute Hosting with Amplify Console (Managed hosting with
+ custom domains, Continuous deployment)
+? Choose a type Continuous deployment (Git-based deployments)
+? Continuous deployment is configured in the Amplify Console. Please hit enter once you 
+connect your repository 
+Amplify hosting urls: 
+┌──────────────┬──────────────────────────────────────────────┐
+│ FrontEnd Env │ Domain                                       │
+├──────────────┼──────────────────────────────────────────────┤
+│ master       │ https://master.d3gdir69o49796.amplifyapp.com │
+
+```
+
