@@ -141,3 +141,6 @@ http://osiris-indoor.github.io/tutorial/2016/04/11/Using-Leaflet-to-draw-your-bu
 
 # Leaflet routing
 - https://github.com/Turistforeningen/leaflet-routing
+
+# Javascript
+- https://www.digitalocean.com/community/tutorials/js-array-find-method
