@@ -110,3 +110,17 @@ https://github.com/dowjones/react-tutorial/blob/master/AWS.Cloud9.Instructions.m
 # Leaflet Zoom 
 - [Zoom further in than level 19 with leaflet javascript API?](https://gis.stackexchange.com/questions/78843/zoom-further-in-than-level-19-with-leaflet-javascript-api)
 - https://leafletjs.com/reference-1.2.0.html#gridlayer-maxnativezoom
+
+
+# Leaflet 3D
+
+
+# UI
+```sh
+npm i react-select
+npm i react-router-dom
+npm i bootstrap
+npm i jquery
+npm install popper.js --save
+npm audit fix
+```

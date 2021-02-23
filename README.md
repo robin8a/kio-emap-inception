@@ -144,3 +144,11 @@ http://osiris-indoor.github.io/tutorial/2016/04/11/Using-Leaflet-to-draw-your-bu
 
 # Javascript
 - https://www.digitalocean.com/community/tutorials/js-array-find-method
+
+
+# Empresas con gran mejor precisión y refresco
+
+- [Maps People](https://www.mapspeople.com/)
+- 52 billones para el 2027 con un crecimiento anual del 54%
+- [Indoor Atlas](https://www.indooratlas.com/)
+
