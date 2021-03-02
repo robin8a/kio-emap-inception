@@ -129,31 +129,20 @@ Some next steps:
 Pro tip:
 Try "amplify add api" to create a backend API and then "amplify publish" to deploy everything
 ```
-# Install libraries
 
-```
-npm i react-cursor-position
-npm i react-device-detect
-npm i react-external-link
-npm install aws-amplify @aws-amplify/ui-react
-yarn add react-router-dom
-npm i aws-amplify @aws-amplify/ui-react
-npm i aws-amplify-react
-yarn add bootstrap
-```
 # Codecommit
 
 [Create repo](https://docs.aws.amazon.com/cli/latest/reference/codecommit/create-repository.html)
 ```sh
 nano ~/.aws/credentials
-export PATH=~/Library/Python/3.7/bin:$PATH
-source ~/.bash_profile
+export PATH=~/Library/Python/3.8/bin:$PATH
+# source ~/.bash_profile
 # test
-aws s3 ls --profile su-amazing-leads-roisense-amplify
-export AWS_PROFILE=su-amazing-leads-roisense-amplify
+aws s3 ls --profile kio-indoor-emap
+export AWS_PROFILE=kio-indoor-emap
 
 # aws codecommit create-repository --repository-name MyDemoRepo --repository-description "My demonstration repository" --tags Team=Saanvi
-aws codecommit create-repository --repository-name su-amazing-leads-roisense --repository-description "Amazing Leads for Roisense" --tags Team=kio --region us-east-1 
+aws codecommit create-repository --repository-name kio-indoor-emap --repository-description "Amazing Leads for Roisense" --tags Team=kio --region us-east-1 
 
 ```
 
@@ -161,15 +150,15 @@ aws codecommit create-repository --repository-name su-amazing-leads-roisense --r
 ```json
 {
     "repositoryMetadata": {
-        "accountId": "185733014839",
-        "repositoryId": "bb952eb2-48e2-40d0-b517-90be08cbe0b6",
-        "repositoryName": "su-amazing-leads-roisense",
+        "accountId": "429849394467",
+        "repositoryId": "82bc7d36-1c6e-483a-8071-441b8f4814ad",
+        "repositoryName": "kio-indoor-emap",
         "repositoryDescription": "Amazing Leads for Roisense",
-        "lastModifiedDate": "2021-02-02T10:45:36.787000-05:00",
-        "creationDate": "2021-02-02T10:45:36.787000-05:00",
-        "cloneUrlHttp": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/su-amazing-leads-roisense",
-        "cloneUrlSsh": "ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/su-amazing-leads-roisense",
-        "Arn": "arn:aws:codecommit:us-east-1:185733014839:su-amazing-leads-roisense"
+        "lastModifiedDate": 1614698396.474,
+        "creationDate": 1614698396.474,
+        "cloneUrlHttp": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/kio-indoor-emap",
+        "cloneUrlSsh": "ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/kio-indoor-emap",
+        "Arn": "arn:aws:codecommit:us-east-1:429849394467:kio-indoor-emap"
     }
 }
 ```
@@ -178,9 +167,9 @@ aws codecommit create-repository --repository-name su-amazing-leads-roisense --r
 
 ```sh
 ssh-keygen
-/Users/robin8a/.ssh/su_amazing_leads_roisense_rsa
+/Users/robin8a/.ssh/kio_indoor_emap_rsa
 
-cat ~/.ssh/su_amazing_leads_roisense_rsa.pub
+cat ~/.ssh/kio_indoor_emap_rsa.pub
 
 ```
 
@@ -193,10 +182,10 @@ nano config
 # Add
 
 # CodeCommit hosts
-Host su_amazing_leads_roisense_rsa
+Host kio_indoor_emap_rsa
    HostName git-codecommit.us-east-1.amazonaws.com
-   User APKASWPUM4U3UL2YM5EG
-   IdentityFile ~/.ssh/su_amazing_leads_roisense_rsa
+   User APKAWIFIFHUR2WXL3F4N
+   IdentityFile ~/.ssh/kio_indoor_emap_rsa
 
 ```
 
@@ -206,10 +195,18 @@ https://xiaolishen.medium.com/use-multiple-ssh-keys-for-different-github-account
 # git remote -v
 # git remote rm origin
 
-git remote add origin ssh://su_amazing_leads_inception_rsa/v1/repos/su-amazing-leads-roisense
+git remote add origin ssh://kio_indoor_emap_rsa/v1/repos/kio-indoor-emap
 git push
 ```
 
+# Install libraries
+```
+npm i react-external-link
+yarn add react-router-dom
+npm i aws-amplify @aws-amplify/ui-react
+npm i aws-amplify-react
+yarn add bootstrap
+```
 
 # Amplify hosting
 ```sh
