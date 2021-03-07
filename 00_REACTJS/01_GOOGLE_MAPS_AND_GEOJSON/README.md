@@ -200,18 +200,59 @@ git push
 ```
 
 # Install libraries
-```
+```sh
+npm install react-bootstrap bootstrap
 npm i react-external-link
 yarn add react-router-dom
 npm i aws-amplify @aws-amplify/ui-react
 npm i aws-amplify-react
-yarn add bootstrap
+npm i --save react-select
+npm i styled-components
+npm i uuid
 ```
+
+# Bootstrap
+- https://react-bootstrap.github.io/getting-started/introduction/
+- https://react-bootstrap.github.io/components/navbar/
+
 
 # Amplify hosting
 ```sh
 amplify add hosting
 ```
+## Result
+```sh
+amplify add hosting
+? Select the plugin module to execute Hosting with Amplify Console (Managed hosting with custom domains, Continuous deployment)
+? Choose a type Continuous deployment (Git-based deployments)
+? Continuous deployment is configured in the Amplify Console. Please hit enter once you connect your repository 
+Amplify hosting urls: 
+┌──────────────┬─────────────────────────────────────────────┐
+│ FrontEnd Env │ Domain                                      │
+├──────────────┼─────────────────────────────────────────────┤
+│ master       │ https://master.dwhxm616ns74e.amplifyapp.com │
+```
+
+# Google Maps
+
+- https://www.youtube.com/watch?v=PuwGdowtm5s
+- https://medium.com/@dmw9400/using-geojson-with-google-maps-api-5127f7498a33
+- https://developers.google.com/maps/documentation/javascript/importing_data
+- https://spectrum.chat/react-google-maps/general/is-it-possible-to-load-a-geojson-layer-to-the-map~b07599dd-c8e8-4ca0-b0cf-b6679d350e87
+- https://github.com/Dooffy/google-map-react-polyline-example
+
+## Calculate best route
+- https://eloquentjavascript.net/1st_edition/chapter7.html
+
+```sh
+npm i google-map-react
+npm i babel-loader
+```
+
+# React setState
+
+- https://stackoverflow.com/questions/43370176/using-async-setstate
+
 
 # Amplify api/push/
 ```sh
