@@ -124,3 +124,10 @@ npm i jquery
 npm install popper.js --save
 npm audit fix
 ```
+
+
+# 
+- [Share variables between components](https://medium.com/@nipunadilhara/passing-data-between-different-components-using-react-c8e27319ee69)
+- https://reactrouter.com/web/guides/quick-start
+- https://www.freecodecamp.org/news/react-router-tutorial/
+

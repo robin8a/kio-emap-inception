@@ -74,50 +74,50 @@ Successfully set up the new user.
 
 ```sh
 amplify init
-Note: It is recommended to run this command from the root of your app directory
-? Enter a name for the project kioindooremap
-? Enter a name for the environment kioemapenv
-? Choose your default editor: Visual Studio Code
-? Choose the type of app that you're building javascript
-Please tell us about your project
-? What javascript framework are you using react
-? Source Directory Path:  src
-? Distribution Directory Path: build
-? Build Command:  npm run-script build
-? Start Command: npm run-script start
-Using default provider  awscloudformation
+# Note: It is recommended to run this command from the root of your app directory
+# ? Enter a name for the project kioindooremap
+# ? Enter a name for the environment kioemapenv
+# ? Choose your default editor: Visual Studio Code
+# ? Choose the type of app that you're building javascript
+# Please tell us about your project
+# ? What javascript framework are you using react
+# ? Source Directory Path:  src
+# ? Distribution Directory Path: build
+# ? Build Command:  npm run-script build
+# ? Start Command: npm run-script start
+# Using default provider  awscloudformation
 
 
-For more information on AWS Profiles, see:
-https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html
+# For more information on AWS Profiles, see:
+# https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html
 
-? Do you want to use an AWS profile? Yes
-? Please choose the profile you want to use kio-indoor-emap
-Adding backend environment kioemapenv to AWS Amplify Console app: dwhxm616ns74e
-⠇ Initializing project in the cloud...
+# ? Do you want to use an AWS profile? Yes
+# ? Please choose the profile you want to use kio-indoor-emap
+# Adding backend environment kioemapenv to AWS Amplify Console app: dwhxm616ns74e
+# ⠇ Initializing project in the cloud...
 
-CREATE_IN_PROGRESS DeploymentBucket                       AWS::S3::Bucket            Tue Mar 02 2021 09:26:32 GMT-0500 (Colombia Standard Time) Resource creation Initiated
-CREATE_IN_PROGRESS UnauthRole                             AWS::IAM::Role             Tue Mar 02 2021 09:26:32 GMT-0500 (Colombia Standard Time) Resource creation Initiated
-CREATE_IN_PROGRESS AuthRole                               AWS::IAM::Role             Tue Mar 02 2021 09:26:32 GMT-0500 (Colombia Standard Time) Resource creation Initiated
-CREATE_IN_PROGRESS AuthRole                               AWS::IAM::Role             Tue Mar 02 2021 09:26:31 GMT-0500 (Colombia Standard Time)                            
-CREATE_IN_PROGRESS DeploymentBucket                       AWS::S3::Bucket            Tue Mar 02 2021 09:26:31 GMT-0500 (Colombia Standard Time)                            
-CREATE_IN_PROGRESS UnauthRole                             AWS::IAM::Role             Tue Mar 02 2021 09:26:31 GMT-0500 (Colombia Standard Time)                            
-CREATE_IN_PROGRESS amplify-kioindooremap-kioemapenv-92621 AWS::CloudFormation::Stack Tue Mar 02 2021 09:26:27 GMT-0500 (Colombia Standard Time) User Initiated             
-⠏ Initializing project in the cloud...
+# CREATE_IN_PROGRESS DeploymentBucket                       AWS::S3::Bucket            Tue Mar 02 2021 09:26:32 GMT-0500 (Colombia Standard Time) Resource creation Initiated
+# CREATE_IN_PROGRESS UnauthRole                             AWS::IAM::Role             Tue Mar 02 2021 09:26:32 GMT-0500 (Colombia Standard Time) Resource creation Initiated
+# CREATE_IN_PROGRESS AuthRole                               AWS::IAM::Role             Tue Mar 02 2021 09:26:32 GMT-0500 (Colombia Standard Time) Resource creation Initiated
+# CREATE_IN_PROGRESS AuthRole                               AWS::IAM::Role             Tue Mar 02 2021 09:26:31 GMT-0500 (Colombia Standard Time)                            
+# CREATE_IN_PROGRESS DeploymentBucket                       AWS::S3::Bucket            Tue Mar 02 2021 09:26:31 GMT-0500 (Colombia Standard Time)                            
+# CREATE_IN_PROGRESS UnauthRole                             AWS::IAM::Role             Tue Mar 02 2021 09:26:31 GMT-0500 (Colombia Standard Time)                            
+# CREATE_IN_PROGRESS amplify-kioindooremap-kioemapenv-92621 AWS::CloudFormation::Stack Tue Mar 02 2021 09:26:27 GMT-0500 (Colombia Standard Time) User Initiated             
+# ⠏ Initializing project in the cloud...
 
-CREATE_COMPLETE UnauthRole AWS::IAM::Role Tue Mar 02 2021 09:26:46 GMT-0500 (Colombia Standard Time) 
-CREATE_COMPLETE AuthRole   AWS::IAM::Role Tue Mar 02 2021 09:26:46 GMT-0500 (Colombia Standard Time) 
-⠙ Initializing project in the cloud...
+# CREATE_COMPLETE UnauthRole AWS::IAM::Role Tue Mar 02 2021 09:26:46 GMT-0500 (Colombia Standard Time) 
+# CREATE_COMPLETE AuthRole   AWS::IAM::Role Tue Mar 02 2021 09:26:46 GMT-0500 (Colombia Standard Time) 
+# ⠙ Initializing project in the cloud...
 
-CREATE_COMPLETE DeploymentBucket AWS::S3::Bucket Tue Mar 02 2021 09:26:53 GMT-0500 (Colombia Standard Time) 
-⠹ Initializing project in the cloud...
+# CREATE_COMPLETE DeploymentBucket AWS::S3::Bucket Tue Mar 02 2021 09:26:53 GMT-0500 (Colombia Standard Time) 
+# ⠹ Initializing project in the cloud...
 
-CREATE_COMPLETE amplify-kioindooremap-kioemapenv-92621 AWS::CloudFormation::Stack Tue Mar 02 2021 09:26:55 GMT-0500 (Colombia Standard Time) 
-✔ Successfully created initial AWS cloud resources for deployments.
-✔ Initialized provider successfully.
-Initialized your environment successfully.
+# CREATE_COMPLETE amplify-kioindooremap-kioemapenv-92621 AWS::CloudFormation::Stack Tue Mar 02 2021 09:26:55 GMT-0500 (Colombia Standard Time) 
+# ✔ Successfully created initial AWS cloud resources for deployments.
+# ✔ Initialized provider successfully.
+# Initialized your environment successfully.
 
-Your project has been successfully initialized and connected to the cloud!
+# Your project has been successfully initialized and connected to the cloud!
 
 Some next steps:
 "amplify status" will show you what you've added already and if it's locally configured or deployed
@@ -949,3 +949,28 @@ Some next steps:
 "amplify push" will build all your local backend resources and provision it in the cloud
 "amplify publish" will build all your local backend and frontend resources (if you have hosting category added) and provision it in the cloud
 ```
+
+
+# GoogleMapReact
+- https://www.npmjs.com/package//google-map-react
+- https://reactjs.org/docs/state-and-lifecycle.html
+- https://github.com/google-map-react/google-map-react#use-google-maps-api
+- https://developers.google.com/maps/documentation/javascript/examples/polyline-remove
+- https://www.youtube.com/watch?v=-NI5e_GTIko
+- https://github.com/tomchentw/react-google-maps/issues/220
+- https://www.javaer101.com/en/article/18966321.html
+- https://github.com/google-map-react/google-map-react/blob/ff8810b004d681f309571878e8b1f0c320a06de1/src/google_map.js#L695
+- https://github.com/google-map-react/google-map-react/blame/master/src/google_map.js#L519-L522
+- https://github.com/google-map-react/google-map-react/issues/149
+- https://github.com/Dooffy/google-map-react-polyline-example
+- https://github.com/google-map-react/google-map-react/issues/514
+- https://webkid.io/blog/making-maps-with-react/
+- [Good examples but hard to implement](https://openbase.com/js/google-maps-react)
+- https://gitter.im/tomchentw/react-google-maps?at=5c18c43cb8760c21bbe80e9b
+
+
+# google-maps-react (working)
+- https://github.com/fullstackreact/google-maps-react#readme
+- http://map-icons.com/
+
+LuisyCande20
