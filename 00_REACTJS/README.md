@@ -123,6 +123,7 @@ npm i bootstrap
 npm i jquery
 npm install popper.js --save
 npm audit fix
+npm i geolib
 ```
 
 
@@ -130,4 +131,15 @@ npm audit fix
 - [Share variables between components](https://medium.com/@nipunadilhara/passing-data-between-different-components-using-react-c8e27319ee69)
 - https://reactrouter.com/web/guides/quick-start
 - https://www.freecodecamp.org/news/react-router-tutorial/
+
+# GPS
+
+- [ *** works *** How to Use Geolocation Call in ReactJS](https://www.pluralsight.com/guides/how-to-use-geolocation-call-in-reactjs)
+
+## Calculate distance
+- [Geolib](https://github.com/manuelbieh/geolib)
+
+# Redirect
+- [Stack Over Flow](https://stackoverflow.com/questions/45089386/what-is-the-best-way-to-redirect-a-page-using-react-router)
+- [Code redirect](https://dev.to/projectescape/programmatic-navigation-in-react-3p1l)
 
