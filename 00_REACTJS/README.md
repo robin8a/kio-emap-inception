@@ -120,6 +120,7 @@ https://github.com/dowjones/react-tutorial/blob/master/AWS.Cloud9.Instructions.m
 npm i react-select
 npm i react-router-dom
 npm i bootstrap
+npm i holderjs
 npm i jquery
 npm install popper.js --save
 npm audit fix
@@ -143,3 +144,11 @@ npm i geolib
 - [Stack Over Flow](https://stackoverflow.com/questions/45089386/what-is-the-best-way-to-redirect-a-page-using-react-router)
 - [Code redirect](https://dev.to/projectescape/programmatic-navigation-in-react-3p1l)
 
+# React Images
+- [Examples](https://reactnative.dev/docs/image-style-props)
+- [W3](https://www.w3schools.com/css/css3_images.asp)
+
+# Map drawer
+http://sns.lv/tools/googletools.html
+https://www.scribblemaps.com/
+https://geojson.io/
