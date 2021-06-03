@@ -156,3 +156,10 @@ https://geojson.io/
 # JSON Formatter
 
 https://jsonformatter.curiousconcept.com/
+
+# Polygon
+
+https://developers.google.com/maps/documentation/javascript/reference/polygon
+
+# Icon Change Color
+https://onlinepngtools.com/change-png-color
