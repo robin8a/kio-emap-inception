@@ -163,3 +163,9 @@ https://developers.google.com/maps/documentation/javascript/reference/polygon
 
 # Icon Change Color
 https://onlinepngtools.com/change-png-color
+
+# Overlay Polylines <=> Polygone
+
+- [Toggle between google map polyline and polygon](https://stackoverflow.com/questions/32930184/toggle-between-google-map-polyline-and-polygon)
+- [Groups](https://groups.google.com/g/google-maps-js-api-v3/c/WEdCSNejvbw)
+- [Polyline zIndex](https://groups.google.com/g/google-maps-js-api-v3/c/WEdCSNejvbw)
