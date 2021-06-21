@@ -169,3 +169,9 @@ https://onlinepngtools.com/change-png-color
 - [Toggle between google map polyline and polygon](https://stackoverflow.com/questions/32930184/toggle-between-google-map-polyline-and-polygon)
 - [Groups](https://groups.google.com/g/google-maps-js-api-v3/c/WEdCSNejvbw)
 - [Polyline zIndex](https://groups.google.com/g/google-maps-js-api-v3/c/WEdCSNejvbw)
+
+# how to pass a function react router dom
+
+- [React-router-dom v.4 BrowseRouter pass function to child](https://stackoverflow.com/questions/43385871/react-router-dom-v-4-browserouter-pass-function-to-child)
+- https://stackoverflow.com/questions/50235503/pass-function-by-props-in-react-router
+- https://learnwithparam.com/blog/how-to-pass-props-in-react-router/
