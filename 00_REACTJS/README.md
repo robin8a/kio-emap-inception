@@ -175,3 +175,13 @@ https://onlinepngtools.com/change-png-color
 - [React-router-dom v.4 BrowseRouter pass function to child](https://stackoverflow.com/questions/43385871/react-router-dom-v-4-browserouter-pass-function-to-child)
 - https://stackoverflow.com/questions/50235503/pass-function-by-props-in-react-router
 - https://learnwithparam.com/blog/how-to-pass-props-in-react-router/
+
+# Card Clickable
+- [Making whole card clickable in Reactstrap](https://stackoverflow.com/questions/53973644/making-whole-card-clickable-in-reactstrap)
+
+# Redirect
+- [How to redirect from one page to another page in React Router](https://reactgo.com/react-router-redirection/)
+- https://codesource.io/how-to-use-this-props-history-push-on-your-react-project/
+
+# Pass variables on Link
+- [How to Pass props using Link and NavLink in React Router v4](https://medium.com/@bopaiahmd.mca/how-to-pass-props-using-link-and-navlink-in-react-router-v4-75dc1d9507b4)
