@@ -185,3 +185,6 @@ https://onlinepngtools.com/change-png-color
 
 # Pass variables on Link
 - [How to Pass props using Link and NavLink in React Router v4](https://medium.com/@bopaiahmd.mca/how-to-pass-props-using-link-and-navlink-in-react-router-v4-75dc1d9507b4)
+
+# Coupon / Promos Templates
+- https://venngage.com/templates/coupons?vap=couponLP
