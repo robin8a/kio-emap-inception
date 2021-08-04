@@ -25,3 +25,17 @@ npm install @babel/core @babel/preset-env
 # index.js:1406 Google Maps JavaScript API error: ApiNotActivatedMapError
 - https://developers.google.com/maps/documentation/javascript/get-api-key#:~:text=In%20the%20Cloud%20Console%2C%20on,to%20add%20an%20API%20Key.&text=Go%20to%20the%20APIs%20%26%20Services%20%3E%20Credentials%20page.&text=On%20the%20Credentials%20page%2C%20click,your%20newly%20created%20API%20key.
 - https://developers.google.com/maps/documentation/embed/get-api-key
+
+
+# AuthError - Error: Amplify has not been configured correctly.
+
+https://stackoverflow.com/questions/63605779/autherror-error-amplify-has-not-been-configured-correctly
+
+Add to index.js
+```jsx
+// AWS amplify modules
+import Amplify, { Auth } from 'aws-amplify'
+import awsconfig from './aws-exports'
+Amplify.configure(awsconfig)
+Auth.configure(awsconfig)
+```
