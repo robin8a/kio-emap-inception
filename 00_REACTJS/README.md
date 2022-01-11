@@ -712,3 +712,9 @@ npm i react-datetime \
 npm i moment \
 npm i reactstrap
 ```
+
+
+# Status
+- Ver pivot tracker: https://www.pivotaltracker.com/n/projects/2549185
+- https://www.fceia.unr.edu.ar/estruc/2005/graffund.htm
+- https://disi.unal.edu.co/~lctorress/estructuras/pdf/EInf28.pdf
