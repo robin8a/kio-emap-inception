@@ -722,3 +722,12 @@ npm i reactstrap
 
 # GraphQL Auth
 - https://docs.amplify.aws/cli-legacy/graphql-transformer/auth/#definition
+
+
+# Using Material UI v4 theme variable in React Function and Class Components
+- Example working
+```js
+export default withStyles(styles, { withTheme: true })(
+  GoogleApiWrapper({apiKey: ("AIzaSyCGDQSnXKQDzedzzwPpe07tRgY9My2Cz0U")})(SimpleMapTwo))
+```
+- https://medium.com/swlh/using-material-ui-theme-variable-in-react-function-and-class-components-56f4b8164a00
