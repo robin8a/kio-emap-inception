@@ -731,3 +731,9 @@ export default withStyles(styles, { withTheme: true })(
   GoogleApiWrapper({apiKey: ("AIzaSyCGDQSnXKQDzedzzwPpe07tRgY9My2Cz0U")})(SimpleMapTwo))
 ```
 - https://medium.com/swlh/using-material-ui-theme-variable-in-react-function-and-class-components-56f4b8164a00
+
+
+# amplify storage
+```sh
+amplify add storage
+```

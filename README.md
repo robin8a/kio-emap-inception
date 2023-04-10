@@ -165,3 +165,15 @@ http://osiris-indoor.github.io/tutorial/2016/04/11/Using-Leaflet-to-draw-your-bu
 # GPS Altitude xyz 
 
 https://www.pluralsight.com/guides/how-to-use-geolocation-call-in-reactjs
+
+
+# Drawing maps supports GeoJSON
+
+- https://www.scribblemaps.com/create#/lat=4.70320038&lng=-74.04184369&z=20&t=hybrid
+- https://openlayers.org/en/latest/examples/geojson.html
+- https://leafletjs.com/examples/geojson/
+- https://opengeoscience.github.io/geojs/examples/
+- https://geo-json.com/
+- https://nebula.gl/geojson-editor/
+
+
