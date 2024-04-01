@@ -30,25 +30,19 @@
 # April 1, 2024: GoSale Inversionistas
 A continuación en orden de prioridad
 
-## Pruebas funcionales de 3 o 4 centros comerciales
-- Inversionista para probar
-- 6 meses, si da o no
-- Mercadeo
-
-## Ux/UI
-- Debe lucir 
-- Tiempo: 3W
-
 ## Giroscopio
 - Android (100%)
 - 1 semana, funciona o no funciona
 - 2 días implementación visualización
 - Tiempo: 1W
-
 ### Mobile Operating System Market Share in Colombia - February 2024
 -  Android	78.02%
 - iOS	21.75%
 - Samsung	0.2%
+
+## Ux/UI
+- Debe lucir 
+- Tiempo: 3W
 
 ## Analytics
 - 100%
@@ -60,7 +54,7 @@ A continuación en orden de prioridad
 - Número de visualizaciones de promociones
 - Tiempo de visualizaciones de promociones
 - Numero de conversiones de QRs "redimir QR"
-- lat y long (altura por ver) por usuario, si el usuario selecciona piso hasta que se implemente automaticamente
+- lat y long (altura por ver ...) por usuario, si el usuario selecciona piso hasta que se implemente automaticamente
 - Número de visitas por categorías
 - Número de búsquedas por marca
 
@@ -81,7 +75,6 @@ A continuación en orden de prioridad
 - Se puede determinar la altura
 - 8W
 
-
 ## Billing (Facturación)
 
 ## Creación de mapas
@@ -89,3 +82,7 @@ A continuación en orden de prioridad
 - No es necesario ir al sitio
 - La prueba funcional, alguien 
 
+## Pruebas funcionales de 3 o 4 centros comerciales
+- Inversionista para probar
+- 6 meses, si da o no
+- Mercadeo
