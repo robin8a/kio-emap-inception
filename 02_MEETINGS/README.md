@@ -86,3 +86,7 @@ A continuación en orden de prioridad
 - Inversionista para probar
 - 6 meses, si da o no
 - Mercadeo
+
+
+# April 2, 2024: GoSale Inversionistas
+- 8000 por marca, bajar 3500 COP (no se pierde)
