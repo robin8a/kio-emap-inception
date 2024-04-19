@@ -87,6 +87,28 @@ A continuación en orden de prioridad
 - 6 meses, si da o no
 - Mercadeo
 
-
 # April 2, 2024: GoSale Inversionistas
 - 8000 por marca, bajar 3500 COP (no se pierde)
+
+# April, 19 2024
+
+## Presentación de Marketing
+- Una presentación top y profesional, sería ideal
+- Multimercado
+- Entregamos la responsabilidad a un 3ro
+- Cual es la posibilidad de éxito? Si no, que ocurre?
+- Cuando terminen los tiempos, cual es el costo mensual? Quedamos atados a ellos? Quisieran ser socios?
+- Se les puede ofrecer participación? para disminuir el riesgo los costos
+- Es un equipo completo y dedicado a promocionar GoSale
+- Cambio de nombre, ya habiamos hecho. Es un reproceso. Vale la pena?
+
+## Puntos:
+- Al principio no se iban a compartir acciones, ahora si. Que cambio para aceptemos a alguien?
+- Ux/UI, nuevas interfaces: considero que no detiene el proyecto. Ya qué no sabemos lo que quiere el mercado? No lo sabemos. Un software nunca va a estar completo. Se han hecho 3 iteraciones de Ux/UI. Debemos tener un lineamiento de @Week o @diseñadora, pero solo ocurrirá cuando tengamos los recursos, por consiguiente nosotros somo Ux/UI. Estamos haciendo un sanduche con verduras, jamón y queso. Y puede que sea un tostada con mantequilla.
+- @Rances, ya no estará disponible ya que se va a contratar por SUAN. El nuevo equipo, debemos tener en cuenta en tiempo de entrenamiento.
+- Hasta cuando vamos a seguir inviertiendo, cual es el limite con recursos propios? 
+
+## Propuesta
+- Abril, Mayo y Junio: buscar en paralelo los inversionistas (carpeta: RESOURCES) [Resources](./../06_RESOURCES/README.md)
+- Ajustar el presupuesto de marketing y desarrollo al minimo posible. (para el escenario de recursos propios)
+- Parar el desarrollo en Junio 2024, sino hay ventas o inversión 
