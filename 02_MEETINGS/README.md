@@ -93,22 +93,57 @@ A continuación en orden de prioridad
 # April, 19 2024
 
 ## Presentación de Marketing
-- Una presentación top y profesional, sería ideal
+- Una presentación top y profesional, sería ideal. Equipo top, mucha experiencia.
 - Multimercado
-- Entregamos la responsabilidad a un 3ro
-- Cual es la posibilidad de éxito? Si no, que ocurre?
-- Cuando terminen los tiempos, cual es el costo mensual? Quedamos atados a ellos? Quisieran ser socios?
-- Se les puede ofrecer participación? para disminuir el riesgo los costos
 - Es un equipo completo y dedicado a promocionar GoSale
+- Entregamos la responsabilidad a un 3ro, tiene un costo $$$ => know how!
+- Se les puede ofrecer participación? para disminuir el riesgo y los costos: 
+- Cual es la posibilidad de éxito? Si no, que ocurre? Rta: Ven potencial, no estoy aquí para hacer inversión.
+- Cuando terminen los tiempos, cual es el costo mensual? 
+- Quedamos atados a ellos? 
+- Quisieran ser socios? No
 - Cambio de nombre, ya habiamos hecho. Es un reproceso. Vale la pena?
+- Cristina dijo: "si no hay usuarios, no hay pauta"
+- Mapa $3M, licencia $2M año. Fee, $6M total por año recomendación
+- Mensaje no de doler, de costo, tampoco desde el punto de vista adminitrativo. Económico y no gasto
 
 ## Puntos:
-- Al principio no se iban a compartir acciones, ahora si. Que cambio para aceptemos a alguien?
-- Ux/UI, nuevas interfaces: considero que no detiene el proyecto. Ya qué no sabemos lo que quiere el mercado? No lo sabemos. Un software nunca va a estar completo. Se han hecho 3 iteraciones de Ux/UI. Debemos tener un lineamiento de @Week o @diseñadora, pero solo ocurrirá cuando tengamos los recursos, por consiguiente nosotros somo Ux/UI. Estamos haciendo un sanduche con verduras, jamón y queso. Y puede que sea un tostada con mantequilla.
+- Al principio no se iban a compartir acciones, ahora si. Que cambio para aceptemos a alguien? Rta: 
+- Ux/UI, nuevas interfaces: considero que no detiene el proyecto. Ya qué no sabemos lo que quiere el mercado? No lo sabemos. Un software nunca va a estar completo. Se han hecho 3 iteraciones de Ux/UI. Debemos tener un lineamiento de @Week o @erika, pero solo ocurrirá cuando tengamos los recursos, por consiguiente nosotros somo Ux/UI. Estamos haciendo un sanduche con verduras, jamón y queso. Y puede que sea un tostada con mantequilla. Tres mejoras: 1. ingresa al mapa 3 pasos (1 paso) *generar reunión, @stephen mostrar la interfaz, compartir. @robin hacer el .ejercicio. @stephen: para el Ux, no funciona comercialmente
 - @Rances, ya no estará disponible ya que se va a contratar por SUAN. El nuevo equipo, debemos tener en cuenta en tiempo de entrenamiento.
-- Hasta cuando vamos a seguir inviertiendo, cual es el limite con recursos propios? 
+- Hasta cuando vamos a seguir inviertiendo, cual es el limite con recursos propios?
 
 ## Propuesta
 - Abril, Mayo y Junio: buscar en paralelo los inversionistas (carpeta: RESOURCES) [Resources](./../06_RESOURCES/README.md)
 - Ajustar el presupuesto de marketing y desarrollo al minimo posible. (para el escenario de recursos propios)
-- Parar el desarrollo en Junio 2024, sino hay ventas o inversión 
+- Parar el desarrollo en Junio 2024, sino hay ventas o inversión
+
+
+
+# 29 Mayo, 2024
+
+## Tres tipos de información:
+
+1. promo 
+- Puede ser o no redimible 
+ 
+2. eventos 
+- Estara en una categoria o tipo "Entertainment & Leisure"
+- Agregar el tipo de promoción para poder soportar eventos y que queden categorizados
+
+3. publicidad
+- No todas la promociones son redimibles "Other"
+- Publicidad de una nueva hamburguesa => "Food & Dining"
+
+## Categorias
+- Ejemplo y no definitivas
+
+
+Top (general)
+Fashion & Apparel
+Health & Beauty
+Electronics & Technology
+Home & Lifestyle
+Food & Dining
+Entertainment & Leisure
+Other

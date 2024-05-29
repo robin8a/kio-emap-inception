@@ -10,3 +10,30 @@
 
 ## Some UX/UI design tools include:
 Sketch, InVision Studio, Axure, Craft, Proto.io, Adobe XD, Marvel, Figma. 
+
+#  Ux/UI
+
+## AI 
+Help to create a mockup
+
+You are a Ux UI designer, you have to design a promo view for a webapp with the best practices of the market. Where should go the image, description, length description, start time and end time. What should be the size of the image and text
+
+
+## Webs
+- https://www.instagram.com/plazacentralcc/?hl=es
+- https://www.awwwards.com/websites/promotional/
+- https://www.simon.com/mall/sawgrass-mills/deals
+
+
+# Mis consideraciones
+
+- Nosotros debemos guiar a las marcas para la mejor expericencia de usuario
+- El tamaño de los flyers es muy grande y saturado de información
+- Diferenciarnos de las redes sociales que usan los flyers
+- Cómo debemos manejar los eventos
+- Nosotros debemos guiar a las marcas para la mejor expericencia de usuario
+- Debemos dar la mejor experiencia de usuario
+- Es facturar?
+- No somos una fabrica de SW
+- No he dicho que no le aceptamos la imágenes
+- Lo que quiero decir es que debemos darle la guía
